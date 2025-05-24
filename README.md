@@ -14,5 +14,7 @@ git clone https://github.com/NodeJsExamples/objectExample</li>
 <li>http://localhost:3000</li>
 <li>http://localhost:3000/second</li>
 <li>http://localhost:3000/hello/Teppo</li>
+<li>http://localhost:3000/hello2/</li>
+<li>http://localhost:3000/hello2/Teppo</li>
 </ol>
 </li>
